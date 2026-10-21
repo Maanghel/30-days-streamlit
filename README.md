@@ -1,9 +1,9 @@
 # 30 Days of Streamlit
 
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&style=plastic)
+![Static Badge](https://shields.io/badge/Estado-Finalizado-orange?style=plastic)
 ![Static Badge](https://shields.io/badge/Python-green?logo=python&style=plastic)
 ![Static Badge](https://shields.io/badge/streamlit-brown?logo=streamlit&style=plastic)
-![Static Badge](https://shields.io/badge/Estado-100%-orange?style=plastic)
 
 En este repositorio se llevo a cabo el tutorial de 30 dias
 implementado por Streamlit.
