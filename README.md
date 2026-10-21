@@ -1,4 +1,5 @@
 # 30 Days of Streamlit
+
 ![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github&style=plastic)
 ![Static Badge](https://shields.io/badge/Python-green?logo=python&style=plastic)
 ![Static Badge](https://shields.io/badge/streamlit-brown?logo=streamlit&style=plastic)
